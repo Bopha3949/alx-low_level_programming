@@ -1,12 +1,10 @@
-#!/bin/bash
-#include <stdio.h>
-/*
- * main - Entry point
- *
- * Return: Always 0 (Success)
+#include<stdio.h>
+/**
+ * main - A program that print using the printf function
+ *Return 0 (success)
  */
-int main(void)
+	int main(void)
 {
-        puts('\"Programming is like building a multilingual puzzle\n");
-        return 0;
+	printf("Programming is like building a multilingual puzzle"\n)
+		Return (0)
 }
