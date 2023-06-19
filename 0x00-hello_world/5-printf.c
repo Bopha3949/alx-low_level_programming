@@ -1,9 +1,11 @@
-#includ<stdio.h>
+#include<stdio.h>
 /**
  * main - progam that print with proper grammar
  * Return o (success)
  */
+
+int main (void)
 {
-	int main (void)
-		printf("with proper grammar, but the outcome is a piece of art,"\n)
+	printf("with proper grammar, but the outcome is a piece of art,"\n)
+		return (0);
 }
