@@ -1,10 +1,11 @@
 #include<stdio.h>
 /**
- * main - A program that print using the printf function
- *Return 0 (success)
+ * main - Entry point
+ * Return: 0 (Success)
  */
-	int main(void)
+
+int main(void)
 {
-	printf("Programming is like building a multilingual puzzle"\n)
-		Return (0)
+ puts("\"Programming is like building a multilingual puzzle");
+ return (0);
 }
