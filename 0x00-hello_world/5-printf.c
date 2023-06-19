@@ -1,13 +1,9 @@
-#!/bin/bash
-#include<stdion#include<stdio.h>
-/*
-* main - Entry point
-*
-*
-* Return: Always 0 (Success)
-*/
-int main(void)
+#includ<stdio.h>
+/**
+ * main - progam that print with proper grammar
+ * Return o (success)
+ */
 {
-        printf("with proper grammar, but the outcome is a piece of art,\n");
-        return (0);
+	int main (void)
+		printf("with proper grammar, but the outcome is a piece of art,"\n)
 }
