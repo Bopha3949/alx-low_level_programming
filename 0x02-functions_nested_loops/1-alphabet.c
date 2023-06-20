@@ -4,9 +4,14 @@
  * return 0
  */
 
-int main(void)
+void print_alphabet(void)
 {
-	void '(print_alphabet\n)'
+	int i;
+	
+		for(i=97;i<=122;i++)
+		{
+			_putchar(i);
 
-return (0);
+		}
+		_putchar('\n');
 }
