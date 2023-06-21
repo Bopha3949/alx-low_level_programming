@@ -1,10 +1,10 @@
-#include<stdio.h>
+#include<unistd.h>
 /**
  * main - function that print the alphabet in lower case
  * return 0
  */
 
-void print_alphabet(void)
+void print_alphabet(void);
 {
 	int i;
 
