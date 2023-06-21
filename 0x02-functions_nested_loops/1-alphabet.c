@@ -1,15 +1,15 @@
 #include<stdio.h>
+/**
+ * main - function that print the alphabet in lower case
+ * return 0
+ */
 
-void Print_alphabet(void){
-	return (i);
-}
-
-int i{
-		for (i = 97; i <= 122; i++);
-		{
-			print_alphabet();
-			_putchar(i);
-
-		}
-		_putchar('\n');
+void print_alphabet(void);
+{
+	int i;
+	for(i= 97; i,= 122; i++)
+	{
+		_putchar(i);
+	}
+	_putchar('\n');
 }
