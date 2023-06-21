@@ -1,12 +1,13 @@
 #include<stdio.h>
 
 void Print_alphabet(void){
-	return 0;
+	return (i);
 }
 
 int i{
 		for (i = 97; i <= 122; i++);
 		{
+			print_alphabet();
 			_putchar(i);
 
 		}
