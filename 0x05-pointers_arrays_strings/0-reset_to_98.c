@@ -1,11 +1,10 @@
-#include "main.h"
 #include <stdio.h>
 /**
  *main - a function that takes a pointer
  *
- *return - 0
+ *return - always o.
  */
-void reset_to_98(int *n);
+int main(void)
 {
 	int n;
 
