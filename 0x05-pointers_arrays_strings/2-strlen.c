@@ -6,8 +6,8 @@
  * @n: length of a string
  * return: 0
  */
-int _strlen(char *s);
+int _strlen(char *s)
 {
 	*s = len;
-	return (0)
+	return (0);
 }
