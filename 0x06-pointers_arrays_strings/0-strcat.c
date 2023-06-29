@@ -6,9 +6,10 @@
  */
 char *_strcat(char *dest, char *src);
 {
-	char* concatenated = _strcat(str1, str2);
+	char *concatenated = _strcat(str1, str2);
+
 	printf("Concatenated string: %s\n", concatenated);
 
-	free(concatenated);
+	fee(concatenated);
 }
-	return 0;
+	return (0);
