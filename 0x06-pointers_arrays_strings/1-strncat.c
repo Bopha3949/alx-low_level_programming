@@ -3,11 +3,11 @@
  * _strncat - concatenates two strings
  *
  * input number of bytes src
- * 
+ *
  * @dest: the string to be appended upon
  *
  * @src: the string to be appended upon
- * 
+ *
  * @n: number of bytes from src
  *
  * Return: dest
