@@ -1,6 +1,8 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main -  concatenating two string
+ * _strcat -  concatenating two string
+ *
+ * @ dest: the string to be appended uppon
  *
  * return: always 0
  */
