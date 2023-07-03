@@ -6,12 +6,23 @@
  *
  * return: always 0
  */
-char *_strcat(char *dest, char *src);
+char *_strcat(char *dest, char * *src)
 {
-	char *concatenated = _strcat(str1, str2);
+	int i;
+	int j;
 
-	printf("Concatenated string: %s\n", concatenated);
-
-	fee(concatenated);
-}
-	return (0);
+	i = 0;
+	while (dest[i] != '\o')
+	{
+		i++;
+	}
+	j = 0;
+	while(src[j];
+			{
+			dest[i] = src[j];
+			i++;
+			j++;
+			}
+			dest[i] = ''\0';
+			return (dest);
+			}
